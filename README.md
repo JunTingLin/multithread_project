@@ -98,8 +98,8 @@ player會去繼承thread，把要執行的內容寫在player class裡的run，�
 影片連結: https://youtu.be/pYok9U2lsQE
 
 ## 陸.	參考
-+ Java多執行緒實現TCP網路Socket程式設計(C/S通訊)
-+	java12官方文件說明
-+	Java Sockets: Multithreaded Server
++ [Java多執行緒實現TCP網路Socket程式設計(C/S通訊)](https://www.796t.com/article.php?id=146058)
++ [java12官方文件說明](https://docs.oracle.com/en/java/javase/12/docs/api/)
++ [Java Sockets: Multithreaded Server](https://www.youtube.com/watch?v=s_YsS3jhgWc)
 
  
